@@ -36,3 +36,40 @@ body, html  {
   color: #007bff;
   border: 1px solid #007bff;
   background: 0 0;
+}
+footer {
+  padding: 50px 80px;
+  align-items: center;
+  top: 730px;
+  bottom: 0px;
+  left: 0px;right: 0px;
+}
+.footer_links a {
+  position: relative;
+  display: inline-block;
+  color: #007bff!important;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0 15px;
+  outline: 0;
+}
+.footer_copyright{
+  width: 20px;
+  height: 20px;
+}
+.footer_links img {
+  display: none;
+  width: 22px;
+}
+body a, html a {
+  text-decoration: none;
+  font-weight: 900;
+  color: #36363c;
+  font-family: Trebuchet MS;
+}
+body a:hover{
+    text-decoration: underline blue;
+}
+body p, html p {
+  font-weight: 400;
+}
