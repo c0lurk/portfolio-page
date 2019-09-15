@@ -4,3 +4,16 @@
 .background{
   text-align: left;
   width: auto;
+}
+.languages {
+  margin: 3px 0;
+  font-size: .9rem;
+}
+body, html  {
+  background-image: url("home-bg-2.jpg");
+  margin: 0;
+  padding: 0;
+  color: #444452;
+  line-height: 1.5;
+  font-family: 'Share Tech Mono', monospace;
+}
