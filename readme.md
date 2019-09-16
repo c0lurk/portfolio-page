@@ -1,7 +1,7 @@
 #### Portfolio, 1.0
 #### By **Zach Njuguna**
 ## Description
-THis is the go-to place to find out all about my web programming career as well as a ittle bt about myself. It's designed to be intuitive and very informative
+This is the go-to place to find out all about my web programming career as well as a ittle bt about myself. It's designed to be intuitive and very informative
 ## Technologies Used
 HTML5
 CSS3
