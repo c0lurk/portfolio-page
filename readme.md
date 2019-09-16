@@ -1,4 +1,3 @@
-#My portfolio page
 #### THis is a webpage to showcase my programming portfolio, 1
 #### By **Zach Njuguna**
 ## Description
@@ -6,6 +5,8 @@ THis is the go-to place to find out all about my web programming career as well 
 ## Technologies Used
 HTML5
 CSS3
+## Link
+https://nook7466.github.io/portfolio-page/
 ## Support and contact details
 For queries, you can e-mail me at zachnjuguna@gmail.com
 ### License
